@@ -76,7 +76,7 @@ body {
     cursor: pointer;
     left: 95vh;
     border: 0.1vh solid;
-    animation-name: orbitam;
+    animation-name: plr;
     animation-duration: 20s;
     animation-fill-mode: forwards;
     animation-timing-function: linear;
